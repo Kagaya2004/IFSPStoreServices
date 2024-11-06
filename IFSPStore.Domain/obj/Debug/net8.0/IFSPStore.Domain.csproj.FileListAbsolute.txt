@@ -1,0 +1,12 @@
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.deps.json
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.pdb
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfoInputs.cache
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfo.cs
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.CoreCompileInputs.cache
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\refint\IFSPStore.Domain.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.pdb
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\ref\IFSPStore.Domain.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.sourcelink.json

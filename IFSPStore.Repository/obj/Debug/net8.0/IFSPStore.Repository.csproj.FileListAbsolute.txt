@@ -1,0 +1,16 @@
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\bin\Debug\net8.0\IFSPStore.Repository.deps.json
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\bin\Debug\net8.0\IFSPStore.Repository.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\bin\Debug\net8.0\IFSPStore.Repository.pdb
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\bin\Debug\net8.0\IFSPStore.Domain.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\bin\Debug\net8.0\IFSPStore.Domain.pdb
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.csproj.AssemblyReference.cache
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.AssemblyInfoInputs.cache
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.AssemblyInfo.cs
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.csproj.CoreCompileInputs.cache
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.sourcelink.json
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStor.0682D241.Up2Date
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\refint\IFSPStore.Repository.dll
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\IFSPStore.Repository.pdb
+D:\Kayky Ogaya\Documents\IFSP\6° Semestre\POE\IFSPStore\SolucaoIFSPStore\IFSPStore.Repository\obj\Debug\net8.0\ref\IFSPStore.Repository.dll
